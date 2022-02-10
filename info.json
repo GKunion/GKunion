@@ -1,0 +1,421 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://gkunion.mysxl.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 59576,
+            "children": [
+                {
+                    "url": "https://user-assets.sxlcdn.com/images/935571/FqMGNY2AxFucHvgVUcfV_yoicVVS.jpg?imageMogr2/strip/auto-orient/thumbnail/1200x630%3E/interlace/1/format/jpeg",
+                    "path": "img/FqMGNY2AxFucHvgVUcfV_yoicVVS_2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://user-assets.sxlcdn.com/images/935571/FqMGNY2AxFucHvgVUcfV_yoicVVS.jpg?imageMogr2/strip/auto-orient/thumbnail/300x300%3E/interlace/1/format/jpeg",
+                    "path": "img/FqMGNY2AxFucHvgVUcfV_yoicVVS_1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://static-assets.sxlcdn.com/images/logo-small-2-sxl-grey.png",
+                    "path": "img/logo-small-2-sxl-grey.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://user-assets.sxlcdn.com/images/935571/FqMGNY2AxFucHvgVUcfV_yoicVVS.jpg?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/interlace/1/format/jpeg",
+                    "path": "img/FqMGNY2AxFucHvgVUcfV_yoicVVS.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://user-assets.sxlcdn.com/images/935571/Fmwd4WXOqhr9aWoydg4ehh8pc9Pr.jpg?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/interlace/1/format/jpeg",
+                    "path": "img/Fmwd4WXOqhr9aWoydg4ehh8pc9Pr.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://user-assets.sxlcdn.com/images/935571/FtPalFLCQ6xTx0JnJXxQzYOzvmY6.jpg?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/interlace/1/format/jpeg",
+                    "path": "img/FtPalFLCQ6xTx0JnJXxQzYOzvmY6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://user-assets.sxlcdn.com/images/935641/Fr1fzHAH3XEJrzakqaiPn4Fl7yqq.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/format/png",
+                    "path": "img/Fr1fzHAH3XEJrzakqaiPn4Fl7yqq.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://user-assets.sxlcdn.com/images/935641/FmHoN5OVp4__dEtpIeu7DhR1d9T0.png?imageMogr2/strip/auto-orient/thumbnail/1200x9000%3E/quality/90!/format/png",
+                    "path": "img/FmHoN5OVp4__dEtpIeu7DhR1d9T0.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://static-assets.sxlcdn.com/detectIE-c385c24313ef0e9e4e7a1e131bf5e59f0fbd468f9f9ef44fd6739ae84ef0c0a4.js",
+                    "path": "js/detectIE-c385c24313ef0e9e4e7a1e131bf5e59f0fbd468f9f9ef44fd6739ae84ef0c0a4.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://ajax.sxlcdn.com/ajax/libs/jquery/3.6.0/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89501,
+                    "children": []
+                },
+                {
+                    "url": "http://gkunion.mysxl.cn/dollars/v1/sites/gkunion/pages/205a5bf7-8fe4-47ce-b0f2-6581924dc42e/show.js",
+                    "path": "js/show.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://static-assets.sxlcdn.com/i18n-2ace11ac644d0b40fb8b7cb65e9dd1e553022750e0254118dacbe1fe50735e97.js",
+                    "path": "js/i18n-2ace11ac644d0b40fb8b7cb65e9dd1e553022750e0254118dacbe1fe50735e97.js",
+                    "saved": true,
+                    "size": 9874,
+                    "children": []
+                },
+                {
+                    "url": "https://static-fonts-css.sxlcdn.com/css?family=Playfair+Display:400,700,400italic,700italic%7CVollkorn:400,400italic%7COpen+Sans:300,regular,500,600,700,800,300italic,italic,500italic,600italic,700italic,800italic&subset=latin,latin-ext",
+                    "path": "css/css.css",
+                    "saved": true,
+                    "size": 36894,
+                    "children": [
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+                            "path": "fonts/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/opensans/v27/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+                            "path": "fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+                            "path": "fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+                            "path": "fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+                            "path": "fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2",
+                            "path": "fonts/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+                            "path": "fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+                            "path": "fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+                            "path": "fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/playfairdisplay/v28/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2",
+                            "path": "fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmTObTa3w.woff2",
+                            "path": "fonts/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmTObTa3w.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmaObTa3w.woff2",
+                            "path": "fonts/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmaObTa3w.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmdObTa3w.woff2",
+                            "path": "fonts/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmdObTa3w.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmRObTa3w.woff2",
+                            "path": "fonts/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmRObTa3w.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmQObTa3w.woff2",
+                            "path": "fonts/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmQObTa3w.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObQ.woff2",
+                            "path": "fonts/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObQ.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeE2mcIbA.woff2",
+                            "path": "fonts/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeE2mcIbA.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeGmmcIbA.woff2",
+                            "path": "fonts/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeGmmcIbA.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHWmcIbA.woff2",
+                            "path": "fonts/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHWmcIbA.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEWmcIbA.woff2",
+                            "path": "fonts/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEWmcIbA.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEGmcIbA.woff2",
+                            "path": "fonts/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeEGmcIbA.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://static-fonts.i.sxl.cn/s/vollkorn/v19/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmc.woff2",
+                            "path": "fonts/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmc.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://user-assets.sxlcdn.com/images/935571/FqMGNY2AxFucHvgVUcfV_yoicVVS.jpg?imageMogr2/strip/auto-orient/thumbnail/64x64%3E/interlace/1/format/jpeg",
+                    "path": "img/FqMGNY2AxFucHvgVUcfV_yoicVVS.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "gkunion-mysxl-cn-nu70bu5n",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://gkunion.mysxl.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://gkunion.mysxl.cn/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Thu, 10 Feb 2022 02:55:51 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "strikingly-cached": "current",
+                "strikingly-cached-version": "1623143757-0",
+                "strikingly-cache-region": "cn-north-1",
+                "x-via": "1.1 PSrbdbOSA2sj134:1 (Cdn Cache Server V2.0), 1.1 PSrbJP1tq228:8 (Cdn Cache Server V2.0)",
+                "x-ws-request-id": "62047eb7_PSrbJP1zr46_15643-53970"
+            }
+        },
+        "time": {
+            "start": "2022-02-10T02:55:50.824Z",
+            "end": "2022-02-10T02:56:15.974Z"
+        },
+        "remark": [],
+        "title": "GK联合联盟官网 | 上线了sxl.cn",
+        "ip": "14.128.1.161",
+        "url": "http://gkunion.mysxl.cn/",
+        "main": "index.html",
+        "domain": "gkunion.mysxl.cn",
+        "origin": "http://gkunion.mysxl.cn",
+        "totalSize": "196 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://gkunion.mysxl.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
